@@ -1,4 +1,4 @@
-# Doctor Appointment Booking System (NestJS + PostgreSQL)
+# Doctor Appointment Booking System (NestJS)
 
 A backend API for booking doctor appointments. Built with NestJS, TypeORM, PostgreSQL, and Basic Authentication.
 

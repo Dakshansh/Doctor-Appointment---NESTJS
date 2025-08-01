@@ -1,6 +1,6 @@
 # Doctor Appointment Booking System (NestJS)
 
-A backend API for booking doctor appointments. Built with NestJS, TypeORM, PostgreSQL, and Basic Authentication.
+A backend API for booking doctor appointments. Built with NestJS, TypeORM, and Basic Authentication.
 
 ## Features
 
